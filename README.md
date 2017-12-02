@@ -5,7 +5,7 @@ It is not recommended to use go run (although it works perfectly fine on Linux).
 
 ```
 # Linux
-$ go build -o webview-example && ./go-webview
+$ go build -o go-webview && ./go-webview
 ```
 ```
 # MacOS uses app bundles for GUI apps
