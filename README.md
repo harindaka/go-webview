@@ -20,3 +20,6 @@ $ open webview.app # Or click on the app in Finder
 $ go build -ldflags="-H windowsgui" -o go-webview.exe
 $ go-webview.exe
 ```
+
+# License
+MIT
